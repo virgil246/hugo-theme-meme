@@ -48,7 +48,7 @@ other = "通過"
 other = "相關文章："
 
 [loadComments]
-other = "加载評論"
+other = "載入留言板"
 
 [pageNotFound]
 other = "404 - 頁面不存在"
